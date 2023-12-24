@@ -30,6 +30,7 @@ A.&nbsp;通常通りにツールを実行すると、最新版のglobal.iniを�
 Q.&nbsp;日本語化を解除したい  
 A.&nbsp;左上の日本語化解除ボタンを押して、モードを切り替えてください。  
 &emsp;(その後の操作方法は日本語化の時とほぼ同じです)  
+<img src="image/jp_disable.png" width="45%" />  
   
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
 A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
