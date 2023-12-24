@@ -17,7 +17,7 @@
 <img src="image/3.png" width="80%" />  
   
 5.&nbsp;「日本語化が完了しました。」と出力されていれば、日本語化が完了しているはずですので、ゲームを起動してみてください。  
-<img src="image/3.png" width="80%" />  
+<img src="image/4.png" width="80%" />  
   
 # よくある質問
 Q.&nbsp;自分で配置したuser.cfgがある場合はどうなりますか？  
