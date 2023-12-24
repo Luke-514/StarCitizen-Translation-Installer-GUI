@@ -6,6 +6,7 @@
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen-Translation-Installer-GUI/releases)から支援ツールのZIPファイル(StarCitizen_JP_Translation_Installer_GUI.zip)をダウンロードします。  
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Translation_Installer.exeを起動してください。  
+&emsp;(展開したフォルダ内にあるファイルはすべて必須です)  
 <img src="image/1.png" width="80%" />  
   
 3.&nbsp;日本語化したいバージョンを選択し、OKボタンを押してください。  
@@ -13,7 +14,7 @@
 <img src="image/2.png" width="80%" />  
   
 4.&nbsp;確認画面が出ますので、問題なければYESボタンを押してください。  
-&emsp;(NOを押すと、前の画面に戻ります。)  
+&emsp;(NOを押すと、前の画面に戻ります)  
 <img src="image/3.png" width="80%" />  
   
 5.&nbsp;「日本語化が完了しました。」と出力されていれば、日本語化が完了しているはずですので、ゲームを起動してみてください。  
