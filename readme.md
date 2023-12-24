@@ -3,7 +3,7 @@
 簡単に日本語化できるようにする日本語化支援ツールです。  
   
 # 使い方
-1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen-Translation-Installer/releases)からバッチファイル(StarCitizen_JP_Translation_Installer.bat)をダウンロードします。  
+1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen-Translation-Installer/releases)から支援ツールのZIPファイル(StarCitizen_JP_Translation_Installer.bat)をダウンロードします。  
   
 2.&nbsp;任意の場所でバッチファイルを起動後、日本語化するかどうか聞かれるので、YESかNOを入力してください。  
 &emsp;(y、nでも可)  
@@ -22,21 +22,18 @@ A.&nbsp;user.cfgが配置されている場合は日本語化に必要な情報�
 &emsp;(既に必要な情報が記載されていれば何もしません)  
   
 Q.&nbsp;global.ini(翻訳ファイル)を更新したい。  
-A.&nbsp;通常通りにバッチファイルを実行すると、最新版のglobal.iniを取得し、更新します。  
+A.&nbsp;通常通りにツールを実行すると、最新版のglobal.iniを取得し、更新します。  
   
 Q.&nbsp;日本語化を解除したい  
-A.&nbsp;StarCitizen_JP_Translation_Remover.batをお使いください(操作方法はほぼ同じです)  
+A.&nbsp;左上の日本語化解除ボタンを押して、モードを切り替えてください(その後の操作方法はほぼ同じです)  
   
-Q.&nbsp;バッチを起動すると文字化けしている  
-A.&nbsp;StarCitizen_JP_Translation_Installer_UTF8.batをお使いください  
-  
-Q.&nbsp;バッチを起動するとWindows Defenderに止められる  
+Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
 A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
 <img src="image/defender.jpg" width="45%" />
 <img src="image/defender_accept.jpg" width="45%" />  
   
 Q.&nbsp;任意のglobal.iniを導入したい(テストバージョンなど)  
-A.&nbsp;バッチファイルと同じフォルダに任意のglobal.iniを配置してバッチを起動してください  
+A.&nbsp;ツールのあるフォルダに任意のglobal.iniを配置してツールを実行してください  
 <img src="image/withglobal.png" width="80%" />  
   
 # 免責事項
