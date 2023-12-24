@@ -3,17 +3,20 @@
 簡単に日本語化できるようにする日本語化支援ツールです。  
   
 # 使い方
-1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen-Translation-Installer/releases)から支援ツールのZIPファイル(StarCitizen_JP_Translation_Installer.bat)をダウンロードします。  
+1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen-Translation-Installer-GUI/releases)から支援ツールのZIPファイル(StarCitizen_JP_Translation_Installer_GUI.zip)をダウンロードします。  
   
-2.&nbsp;任意の場所でバッチファイルを起動後、日本語化するかどうか聞かれるので、YESかNOを入力してください。  
-&emsp;(y、nでも可)  
+2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Translation_Installer.exeを起動してください。  
 <img src="image/1.png" width="80%" />  
   
-3.&nbsp;LIVEかPTU、どちらを日本語化したいか聞かれるので、利用しているバージョンを入力してください。  
-&emsp;(l、pでも可　通常はLIVEでOKです)  
+3.&nbsp;日本語化したいバージョンを選択し、OKボタンを押してください。  
+&emsp;(通常はLIVEでOKです)  
 <img src="image/2.png" width="80%" />  
   
-4.&nbsp;「処理が完了しました。」と出力されていれば、日本語化が完了しているはずですので、ゲームを起動してみてください。  
+4.&nbsp;確認画面が出ますので、問題なければYESボタンを押してください。  
+&emsp;(NOを押すと、前の画面に戻ります。)  
+<img src="image/3.png" width="80%" />  
+  
+5.&nbsp;「日本語化が完了しました。」と出力されていれば、日本語化が完了しているはずですので、ゲームを起動してみてください。  
 <img src="image/3.png" width="80%" />  
   
 # よくある質問
@@ -25,7 +28,8 @@ Q.&nbsp;global.ini(翻訳ファイル)を更新したい。
 A.&nbsp;通常通りにツールを実行すると、最新版のglobal.iniを取得し、更新します。  
   
 Q.&nbsp;日本語化を解除したい  
-A.&nbsp;左上の日本語化解除ボタンを押して、モードを切り替えてください(その後の操作方法はほぼ同じです)  
+A.&nbsp;左上の日本語化解除ボタンを押して、モードを切り替えてください。  
+&emsp;(その後の操作方法は日本語化の時とほぼ同じです)  
   
 Q.&nbsp;ツールを起動するとWindows Defenderに止められる  
 A.&nbsp;詳細情報を押すと出てくる実行ボタンを押してください  
