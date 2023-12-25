@@ -9,6 +9,10 @@ if "%1" == "" (
 SET PLYVER=%1
 SET LOGIC=%2
 
+if not exist %APPDATA%\rsilauncher\logs\log.log (
+  exit 6
+)
+
 for /f "tokens=*" %%i in ('findstr "libraryFolder" %APPDATA%\rsilauncher\logs\log.log') do SET LIBPATH=%%~i
 SET LIBPATH=%LIBPATH:libraryFolder": "=%
 SET LIBPATH=%LIBPATH:",=%
