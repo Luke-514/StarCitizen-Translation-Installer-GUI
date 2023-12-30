@@ -1,5 +1,5 @@
 # これは何をするためのもの？
-StarCitizenの日本語化ファイルをどこに置いていいか分からないという方でも  
+StarCitizenの[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)をどこに置いていいか分からないという方でも  
 簡単に日本語化できるようにする日本語化支援ツールです。  
   
 # 使い方
