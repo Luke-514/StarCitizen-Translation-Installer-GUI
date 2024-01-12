@@ -1,12 +1,12 @@
 # これは何をするためのもの？
-スターシチズンを日本語化するための[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)配置場所や、設定方法が分からないという方でも  
+スターシチズンを日本語化するための[日本語化ファイル](https://github.com/stdblue/StarCitizenJapaneseResources)の配置場所や、設定方法が分からないという方でも  
 簡単に日本語化できるようにする日本語化支援ツールです。  
   
 # 使い方
 1.&nbsp;[Releases](https://github.com/Luke-514/StarCitizen-Translation-Installer-GUI/releases)から支援ツールのZIPファイル(StarCitizen_JP_Translation_Installer_GUI.zip)をダウンロードします。  
   
 2.&nbsp;任意の場所でZIPファイルを展開し、StarCitizen_JP_Translation_Installer.exeを起動してください。  
-&emsp;(展開したフォルダ内にあるファイルはexeの動作に必要ですので、削除しないよう気を付けてください)  
+&emsp;(展開したフォルダ内にあるファイルはツールの動作に必要ですので、削除しないよう気を付けてください)  
 <img src="image/1.png" width="80%" />  
   
 3.&nbsp;日本語化したいバージョンを選択し、OKボタンを押してください。  
