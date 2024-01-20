@@ -53,4 +53,5 @@ Twitter:@rx_luke
 Star Citizen紹介コード(referral code) → 【STAR-9YPT-ZV5J】 
   
 # Special Thanks
-MoMoShrine
+MoMoShrine  
+クレクレ柴犬
