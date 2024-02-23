@@ -26,7 +26,7 @@ SET USERCFGPATH=%SCDIR%\user.cfg
 if "%LOGIC%" == "Set" (
   if not exist global.ini (
     SET "counter=0"
-    curl -s https://api.github.com/repos/stdblue/StarCitizenJapaneseResources/releases --ssl-no-revoke | findstr "browser_download_url" | findstr "global.ini" > scjtdownload.lst
+    curl -s https://api.github.com/repos/stdblue/StarCitizenJapaneseResources/releases/latest --ssl-no-revoke | findstr "browser_download_url" | findstr "global.ini" > scjtdownload.lst
 
     for /f "tokens=2" %%A in (scjtdownload.lst) do (
         SET /a "counter+=1"
