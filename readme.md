@@ -54,4 +54,7 @@ Star Citizen紹介コード(referral code) → 【STAR-9YPT-ZV5J】
   
 # Special Thanks
 MoMoShrine  
-クレクレ柴犬
+クレクレ柴犬  
+NTKestrel  
+Popolilo  
+Star Citizen Japan Community
